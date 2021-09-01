@@ -4,3 +4,6 @@ dist
 .pants.workdir.file_lock
 *.class
 *.log
+
+.idea
+.cache
